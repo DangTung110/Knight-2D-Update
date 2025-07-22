@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Skeleton
   dame: 10
-  hp: 30
+  hp: 20
   speed: 2

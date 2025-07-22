@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Golem_A
   m_EditorClassIdentifier: 
   name: Golem A
-  dame: 10
+  dame: 15
   hp: 30
   speed: 2

@@ -6,6 +6,7 @@ public class AnimPlayer
     public static string Attack_1 = "Attack_1";
     public static string Attack_2 = "Attack_2";
     public static string FireBall = "FireBall";
+    public static string Hurt = "Hurt";
 }
 public class AnimEnemy
 {
@@ -26,4 +27,12 @@ public class Tag
     public static string Ladder = "Ladder";
     public static string Player = "Player";
     public static string Enemy = "Enemy";
+}
+public class MenuName
+{
+    public static string Start = "Start Menu";
+    public static string SliderNameMusic = "Music";
+    public static string SliderNameSFX = "SFX";
+    public static string Setting = "Setting Menu";
+    public static string Quit = "Quit";
 }
